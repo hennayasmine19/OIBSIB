@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Level_2-Task 2 Tribute Page</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <section class="bg-dark " id="front-page">
+        <div class="container banner">
+            <div>
+                <span class="tribute-badge">Tribute to</span>
+                <h1>Matthew Perry
+
+  
+    
+                </h1>
+            </div>
+            <a id="scroll-down" href="#second-page"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+        </div>
+    </section>
+
+    <section class="bg-light " id="second-page">
+        <div class="container">
+            <div class="quote">
+                <div>
+                    <span class="tribute-badge"> "Chandler Bing's Classic Lines"</span>
+                    <h2><br>"Hi, I'm Chandler, I make jokes when I'm uncomfortable."</br>
+
+                        <br>"I'm not great at the advice. Can I interest you in a sarcastic comment?"</br>
+
+                        <br>"I'm full, and yet I know if I stop eating this, I'll regret it."</br>
+                        
+                        <br>"I'm hopeless and awkward and desperate for love!"</br>
+                    </h2>
+                </div>
+                <div class="img-div">
+                    <img src="https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTgwOTIxMjU1ODYzNDIx/paul-walker-fast-and-furious-9.jpg"
+                        alt="">
+                </div>
+            </div>
+            <div class="up-down">
+                <div>
+                    <a class="scroll-down" href="#front-page"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+                </div>
+                <div>
+                    <a class="scroll-down" href="#third-page"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-dark ">
+        <div class="container biography" id="third-page">
+            <h3>Biography</h3>
+
+                <div class="bio">
+                    <div>
+                        <h4>Early Life</h4>
+                        <p>Matthew Perry was born on August 19, 1969, in Williamstown, Massachusetts.Raised in Ottawa, Canada, he developed an early interest in acting and comedy.</p>
+                    </div>
+                    <div>
+                        <h4>Acting Career</h4>
+                        <p>Matthew Perry's acting career spans decades, with memorable roles that have captivated audiences around the world.Notable roles include Chandler Bing in 'Friends,' Nicholas 'Oz' Oseransky in 'The Whole Nine Yards,' and Matt Albie in 'Studio 60 on the Sunset Strip.</p>
+                    </div>
+                    <div>
+                        <h4>Philanthropy</h4>
+                       <p>Matthew Perry is not only a talented actor but also a philanthropist dedicated to making a positive impact.He actively supports charities focused on addiction recovery and mental health, contributing to causes that resonate with him.</p>
+                    </div>
+                    <div>
+                        <h4>Death</h4>
+                        <p>Matthew Perry died at the age of 54 from an apparent drowning, according to TMZ. The publication reported that the Friends actor was found dead in a hot tub at his home in Los Angeles, California, on Saturday, October 28, 2023.</p>
+                    </div>
+                    <div>
+                        <h4>Legacy</h4>
+                        <p>Matthew Perry's legacy extends beyond the screen, leaving an incredible mark on the entertainment industry.His contributions to comedy and his advocacy work serve as an inspiration to aspiring actors and individuals facing personal challenges.</p>
+                    </div>
+            <div class="up-down">
+                <div>
+                    <a class="scroll-down" href="#second-page"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+                </div>
+                <div>
+                    <a class="scroll-down" href="#fourth-page"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="container" id="fourth-page">
+        <div>
+            <h3><span>"Accolades a</span>nd Achievements"</h3>
+        </div>
+        <div class="invention">
+            <div>
+
+
+                <ul>
+                    <span class="line"></span>
+                    <li class="kartra_timeline__item">
+                        <span class="circle"></span>
+                        <div>
+                            <div data-component="text">
+                                <div>
+                                    <span style="font-size: 0.75rem;"><span>1996 </span>
+                                </div>
+                            </div>
+                            <div>
+                                <div>
+                                    <div>
+                                        <p class="inv-title">FRIENDS</p>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div>
+                                        <p class="description">Best Actor Award(Outstanding Performance by an Ensemble in a Comedy Series)
+                                            </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="kartra_timeline__item">
+                        <span class="circle"></span>
+                        <div>
+                            <div data-component="text">
+                                <div>
+                                    <span style="font-size: 0.75rem;"><span>1997</span>
+                                </div>
+                            </div>
+                            <div>
+                                <div>
+                                    <div>
+                                        <p class="inv-title">FRIENDS</p>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div>
+                                        <p class="description">OFTA Televison Award(Best Ensemble in a Comedy Series)
+                                            </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="kartra_timeline__item">
+                        <span class="circle"></span>
+                        <div>
+                            <div data-component="text">
+                                <div>
+                                    <span style="font-size: 0.75rem;"><span>1998</span>
+                                </div>
+                            </div>
+                            <div>
+                                <div>
+                                    <p class="inv-title">FRIENDS</p>
+                                </div>
+                                <div>
+                                    <div>
+                                        <p class="description">American Comedy Award(Funniest Supporting Male Performer in a TV Series)
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="kartra_timeline__item">
+                        <span class="circle"></span>
+                        <div>
+                            <div data-component="text">
+                                <div>
+                                    <span style="font-size: 0.75rem;"><span>2000</span>
+                                </div>
+                            </div>
+                            <div>
+                                <div>
+                                    <p class="inv-title">Editor's Choice</p>
+                                </div>
+                                <div>
+                                    <div>
+                                        <p class="description">TV Guide Award(Annual award to honor outstanding programs and performers in the American television industry)</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="kartra_timeline__item">
+                        <span class="circle"></span>
+                        <div>
+                            <div data-component="text">
+                                <div>
+                                    <span style="font-size: 0.75rem;"><span>2004</span>
+                                </div>
+                            </div>
+                            <div>
+                                <div>
+                                    <p class="inv-title">THE WEST WING
+                                        </p>
+                                </div>
+                                <div>
+                                    <div>
+                                        <p class="description">Primetime Emmy(Outstanding Guest Actor in a Drama Series)</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="kartra_timeline__item">
+                        <span class="circle"></span>
+                        <div>
+                            <div data-component="text">
+                                <div>
+                                    <span style="font-size: 0.75rem;"><span>2007
+                                        
+                                        </span>
+                                </div>
+                            </div>
+                            <div>
+                                <div>
+                                    <p class="inv-title">THE RON CLARK STORY</p>
+                                </div>
+                                <div>
+                                    <div>
+                                        <p class="description">Gold Derby TV Award(Mini Lead Actor) </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="kartra_timeline__item">
+                        <span class="circle"></span>
+                        <div>
+                            <div data-component="text">
+                                <div>
+                                    <span style="font-size: 0.75rem;"><span>2012
+                                        
+                                        </span>
+                                </div>
+                            </div>
+                            <div>
+                                <div>
+                                    <p class="inv-title">THE GOOD WIFE</p>
+                                </div>
+                                <div>
+                                    <div>
+                                        <p class="description">Gold Derby TV Award(Drama Guest Actor)</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="kartra_timeline__item">
+                        <span class="circle"></span>
+                        <div>
+                            <div data-component="text">
+                                <div>
+                                    <span style="font-size: 0.75rem;"><span>2013
+                                        
+                                       </span>
+                                </div>
+                            </div>
+                            <div>
+                                <div>
+                                    <p class="inv-title">GO ON</p>
+                                </div>
+                                <div>
+                                    <div>
+                                        <p class="description"> Huading Award(Best Global Actor in a Television Series)</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+
+
+
+            </div>
+        </div>
+        <div class="up-down">
+            <div>
+                <a class="scroll-down" href="#third-page"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+            </div>
+            <div>
+                <a class="scroll-down" href="#front-page"><p>TOP</p></a>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-dark">
+        <p class="pQuote"><i> “I think you actually have to have all of your dreams come true to realize they are the wrong dreams.”
+            </i><br><span>― Matthew Perry
+                </span></p>
+
+    </section>
+
+
+
+
+    <script src="script/scrtip.js"></script>
+</body>
+
+</html>
